@@ -3,8 +3,8 @@
  */
 'use strict';
 
-var count = function (year, month) {
-    console.log(year, month)
+var count = function (month) {
+    console.log('Count the countless', month)
 };
 
-count(1989, 4);
+count(4);
