@@ -1,5 +1,5 @@
 'use strict';
 
-const greet = function() {
-  console.log('Gabor');
+const greet = function(name) {
+  console.log('Hi ' + name);
 }
