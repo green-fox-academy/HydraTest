@@ -3,8 +3,8 @@
  */
 'use strict';
 
-var count = function (month) {
-    console.log(month)
+var count = function (year, month) {
+    console.log(year, month)
 };
 
-count(12);
+count(1989, 4);
