@@ -3,8 +3,8 @@
  */
 'use strict';
 
-var age = function (num) {
-    console.log(num-1)
+var count = function (month) {
+    console.log(month)
 };
 
-age(28);
+count(12);
