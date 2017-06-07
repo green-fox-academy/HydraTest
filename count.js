@@ -4,7 +4,7 @@
 'use strict';
 
 var age = function (num) {
-    console.log(num)
+    console.log(num-1)
 };
 
 age(28);
