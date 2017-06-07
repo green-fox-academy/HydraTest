@@ -1,5 +1,7 @@
 'use strict';
 
 const greet = function() {
-  console.log('Gabor');
+  console.log('Greetings!');
 }
+
+greet();
