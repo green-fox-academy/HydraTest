@@ -1,7 +1,7 @@
 'use strict';
 
-const greet = function(name1, name2) {
-  console.log('Greetings ' + name1 + ' and ' + name2 + '!');
-}
+const greet = function(name) {
+  console.log('Greetings for the ' + name + '!');
+};
 
-greet('Dóra', 'Balázs');
+greet('Hydra');
