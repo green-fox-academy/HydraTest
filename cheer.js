@@ -1,7 +1,7 @@
 'use strict';
 
-let cheer = function() {
-    console.log('HYDRA');
+let cheer = function(p) {
+    console.log(p);
 }
 
-cheer();
+cheer('HYDRA');
